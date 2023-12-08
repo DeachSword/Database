@@ -1,0 +1,140 @@
+{
+    "stageReward": {
+        "questStageMstId": 1445,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": [
+            {
+                "questStageRewardMstId": 536,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 537,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 538,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 539,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 540,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 1326,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 1327,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 1328,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 1329,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 1330,
+                "objectType": 1,
+                "objectId": 176,
+                "num": 15,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            }
+        ],
+        "stampNextReward": {
+            "questStageRewardMstId": 536,
+            "objectType": 1,
+            "objectId": 176,
+            "num": 15,
+            "remainCount": 1,
+            "rarity": 1,
+            "pickupFlg": false
+        }
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 1445,
+            "stageStatus": 1,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 30000
+        },
+        "stageNextReward": {
+            "questStageMstId": 1445,
+            "objectType": 1,
+            "objectId": 176,
+            "num": 15,
+            "isLast": false
+        },
+        "dropRewardList": [
+            {
+                "objectType": 1,
+                "objectId": 176,
+                "num": 1,
+                "rarity": 1
+            }
+        ],
+        "campaignList": [],
+        "cardBonusRewardList": []
+    },
+    "deckData": {
+        "deckDataIdList": []
+    }
+}

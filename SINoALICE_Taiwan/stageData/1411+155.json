@@ -1,0 +1,230 @@
+{
+    "stageReward": {
+        "questStageMstId": 1411,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": [
+            {
+                "questStageRewardMstId": 276,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 277,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 278,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 279,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 280,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 281,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 282,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 283,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 284,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 285,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 286,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 287,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 288,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 289,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 290,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 291,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 292,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 293,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 294,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 295,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 1,
+                "rarity": 0,
+                "pickupFlg": false,
+                "getStatus": false
+            }
+        ],
+        "stampNextReward": {
+            "questStageRewardMstId": 276,
+            "objectType": 14,
+            "objectId": 0,
+            "num": 1,
+            "remainCount": 1,
+            "rarity": 0,
+            "pickupFlg": false
+        }
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 1411,
+            "stageStatus": 1,
+            "clearRewardObjectType": 1,
+            "clearRewardObjectId": 24,
+            "clearRewardNum": 1,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 50000
+        },
+        "stageNextReward": {
+            "questStageMstId": 1411,
+            "objectType": 14,
+            "objectId": 0,
+            "num": 1,
+            "isLast": false
+        },
+        "dropRewardList": [
+            {
+                "objectType": 2,
+                "objectId": 550,
+                "num": 1,
+                "rarity": 5
+            }
+        ],
+        "campaignList": [],
+        "cardBonusRewardList": []
+    },
+    "deckData": {
+        "deckDataIdList": []
+    }
+}

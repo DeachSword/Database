@@ -1,0 +1,31 @@
+{
+    "stageReward": {
+        "questStageMstId": 3062,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": null,
+        "stampNextReward": null
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 3062,
+            "stageStatus": 1,
+            "clearRewardObjectType": 2,
+            "clearRewardObjectId": 364,
+            "clearRewardNum": 1,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 0
+        },
+        "stageNextReward": null,
+        "dropRewardList": [],
+        "campaignList": [],
+        "cardBonusRewardList": []
+    },
+    "deckData": {
+        "deckDataIdList": []
+    },
+    "sweepTicketsNum": 0,
+    "sweepBonusOpen": 0,
+    "sweepActivityOpen": 1
+}

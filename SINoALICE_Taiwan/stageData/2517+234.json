@@ -1,0 +1,93 @@
+{
+    "stageReward": {
+        "questStageMstId": 2517,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": [
+            {
+                "questStageRewardMstId": 3886,
+                "objectType": 1,
+                "objectId": 452,
+                "num": 500,
+                "rarity": 1,
+                "pickupFlg": false,
+                "getStatus": false
+            }
+        ],
+        "stampNextReward": {
+            "questStageRewardMstId": 3886,
+            "objectType": 1,
+            "objectId": 452,
+            "num": 500,
+            "remainCount": 1,
+            "rarity": 1,
+            "pickupFlg": false
+        }
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 2517,
+            "stageStatus": 1,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 85000
+        },
+        "stageNextReward": {
+            "questStageMstId": 2517,
+            "objectType": 1,
+            "objectId": 452,
+            "num": 500,
+            "isLast": true
+        },
+        "dropRewardList": [
+            {
+                "objectType": 1,
+                "objectId": 452,
+                "num": 92,
+                "rarity": 1
+            }
+        ],
+        "campaignList": [],
+        "cardBonusRewardList": [
+            {
+                "cardUniqueId": 763,
+                "bonusType": 2,
+                "itemMstId": 452,
+                "addBonus": 1.5,
+                "addWhenMaxLimitBreak": 2.0,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            },
+            {
+                "cardUniqueId": 760,
+                "bonusType": 2,
+                "itemMstId": 452,
+                "addBonus": 1.5,
+                "addWhenMaxLimitBreak": 2.0,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            },
+            {
+                "cardUniqueId": 771,
+                "bonusType": 2,
+                "itemMstId": 452,
+                "addBonus": 1.2,
+                "addWhenMaxLimitBreak": 1.4,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            }
+        ]
+    },
+    "deckData": {
+        "deckDataIdList": []
+    },
+    "sweepTicketsNum": 0,
+    "sweepBonusOpen": 0,
+    "sweepActivityOpen": 1
+}

@@ -1,0 +1,212 @@
+{
+    "stageReward": {
+        "questStageMstId": 2931,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": [
+            {
+                "questStageRewardMstId": 7176,
+                "objectType": 1,
+                "objectId": 25,
+                "num": 3,
+                "rarity": 1,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7177,
+                "objectType": 2,
+                "objectId": 368,
+                "num": 1,
+                "rarity": 3,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7178,
+                "objectType": 1,
+                "objectId": 26,
+                "num": 1,
+                "rarity": 2,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7179,
+                "objectType": 2,
+                "objectId": 369,
+                "num": 1,
+                "rarity": 4,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7180,
+                "objectType": 1,
+                "objectId": 25,
+                "num": 3,
+                "rarity": 1,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7181,
+                "objectType": 2,
+                "objectId": 368,
+                "num": 1,
+                "rarity": 3,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7182,
+                "objectType": 1,
+                "objectId": 26,
+                "num": 1,
+                "rarity": 2,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7183,
+                "objectType": 2,
+                "objectId": 369,
+                "num": 1,
+                "rarity": 4,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7184,
+                "objectType": 1,
+                "objectId": 25,
+                "num": 3,
+                "rarity": 1,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7185,
+                "objectType": 2,
+                "objectId": 368,
+                "num": 1,
+                "rarity": 3,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7186,
+                "objectType": 1,
+                "objectId": 26,
+                "num": 1,
+                "rarity": 2,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7187,
+                "objectType": 2,
+                "objectId": 369,
+                "num": 1,
+                "rarity": 4,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7188,
+                "objectType": 1,
+                "objectId": 26,
+                "num": 2,
+                "rarity": 2,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7189,
+                "objectType": 2,
+                "objectId": 369,
+                "num": 1,
+                "rarity": 4,
+                "pickupFlg": true,
+                "getStatus": false
+            },
+            {
+                "questStageRewardMstId": 7190,
+                "objectType": 14,
+                "objectId": 0,
+                "num": 10,
+                "rarity": 0,
+                "pickupFlg": true,
+                "getStatus": false
+            }
+        ],
+        "stampNextReward": {
+            "questStageRewardMstId": 7176,
+            "objectType": 1,
+            "objectId": 25,
+            "num": 3,
+            "remainCount": 1,
+            "rarity": 1,
+            "pickupFlg": true
+        }
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 2931,
+            "stageStatus": 1,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 25000
+        },
+        "stageNextReward": {
+            "questStageMstId": 2931,
+            "objectType": 1,
+            "objectId": 25,
+            "num": 3,
+            "isLast": false
+        },
+        "dropRewardList": [
+            {
+                "objectType": 2,
+                "objectId": 2165,
+                "num": 1,
+                "rarity": 3
+            },
+            {
+                "objectType": 2,
+                "objectId": 2183,
+                "num": 1,
+                "rarity": 3
+            },
+            {
+                "objectType": 2,
+                "objectId": 2144,
+                "num": 1,
+                "rarity": 3
+            },
+            {
+                "objectType": 1,
+                "objectId": 26,
+                "num": 1,
+                "rarity": 2
+            },
+            {
+                "objectType": 2,
+                "objectId": 397,
+                "num": 1,
+                "rarity": 2
+            }
+        ],
+        "campaignList": [],
+        "cardBonusRewardList": []
+    },
+    "deckData": {
+        "deckDataIdList": []
+    },
+    "sweepTicketsNum": 0,
+    "sweepBonusOpen": 0,
+    "sweepActivityOpen": 1
+}

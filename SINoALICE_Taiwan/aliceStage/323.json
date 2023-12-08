@@ -1,0 +1,50 @@
+{
+    "questAreaMstId": 323,
+    "stageList": [
+        {
+            "questAreaMstId": 323,
+            "questStageMstId": 3265,
+            "stageStatus": 1,
+            "stageBossEnemyId": 853,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/51",
+            "stageBossAttribute": 1,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "questLevel": 100,
+            "questUseStamina": 0,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        }
+    ],
+    "questMissionList": [
+        {
+            "questStageMstId": 3265,
+            "questMissionMstId": 9868,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 3265,
+            "questMissionMstId": 9869,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 3265,
+            "questMissionMstId": 9870,
+            "isClear": false
+        }
+    ],
+    "campaignList": [],
+    "inPossibleQuestStageList": [],
+    "navigatorTalkRes": {
+        "isNavigatorTalk": false,
+        "navigatorTalkMstId": 0
+    },
+    "isHardView": false,
+    "boostCharacterName": "",
+    "itemCount": 0
+}

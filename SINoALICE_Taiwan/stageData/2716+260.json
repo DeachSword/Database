@@ -1,0 +1,69 @@
+{
+    "stageReward": {
+        "questStageMstId": 2716,
+        "clearCount": 0,
+        "completeStatus": false,
+        "stampRewardList": null,
+        "stampNextReward": null
+    },
+    "stageData": {
+        "stageData": {
+            "questStageId": 2716,
+            "stageStatus": 1,
+            "clearRewardObjectType": 1,
+            "clearRewardObjectId": 528,
+            "clearRewardNum": 50,
+            "isStageRewardComplete": false,
+            "hasGotFirstReward": false,
+            "totalPowerThreshold": 0
+        },
+        "stageNextReward": null,
+        "dropRewardList": [
+            {
+                "objectType": 1,
+                "objectId": 528,
+                "num": 24,
+                "rarity": 1
+            }
+        ],
+        "campaignList": [],
+        "cardBonusRewardList": [
+            {
+                "cardUniqueId": 914,
+                "bonusType": 2,
+                "itemMstId": 528,
+                "addBonus": 1.5,
+                "addWhenMaxLimitBreak": 2.0,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            },
+            {
+                "cardUniqueId": 913,
+                "bonusType": 2,
+                "itemMstId": 528,
+                "addBonus": 1.5,
+                "addWhenMaxLimitBreak": 2.0,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            },
+            {
+                "cardUniqueId": 910,
+                "bonusType": 2,
+                "itemMstId": 528,
+                "addBonus": 1.2,
+                "addWhenMaxLimitBreak": 1.4,
+                "bonusTitle": "\u52f3\u7ae0\u7372\u5f97\u7387UP",
+                "bonusItemName": "\u52f3\u7ae0\u7279\u6548",
+                "bonusItemNumName": "\u52f3\u7ae0\u7372\u5f97\u6578"
+            }
+        ]
+    },
+    "deckData": {
+        "deckDataIdList": []
+    },
+    "sweepTicketsNum": 0,
+    "sweepBonusOpen": 0,
+    "sweepActivityOpen": 1
+}

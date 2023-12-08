@@ -1,0 +1,137 @@
+{
+    "questAreaMstId": 239,
+    "stageList": [
+        {
+            "questAreaMstId": 239,
+            "questStageMstId": 2544,
+            "stageStatus": 1,
+            "stageBossEnemyId": 409,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/8",
+            "stageBossAttribute": 1,
+            "clearRewardObjectType": 1,
+            "clearRewardObjectId": 24,
+            "clearRewardNum": 1,
+            "questLevel": 90,
+            "questUseStamina": 5,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 20,
+            "nextQuestStageRewardMstId": 4157
+        },
+        {
+            "questAreaMstId": 239,
+            "questStageMstId": 2545,
+            "stageStatus": 1,
+            "stageBossEnemyId": 409,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/8",
+            "stageBossAttribute": 1,
+            "clearRewardObjectType": 1,
+            "clearRewardObjectId": 28,
+            "clearRewardNum": 1,
+            "questLevel": 110,
+            "questUseStamina": 5,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 20,
+            "nextQuestStageRewardMstId": 4177
+        },
+        {
+            "questAreaMstId": 239,
+            "questStageMstId": 2546,
+            "stageStatus": 1,
+            "stageBossEnemyId": 409,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/8",
+            "stageBossAttribute": 1,
+            "clearRewardObjectType": 2,
+            "clearRewardObjectId": 665,
+            "clearRewardNum": 1,
+            "questLevel": 150,
+            "questUseStamina": 5,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 20,
+            "nextQuestStageRewardMstId": 4197
+        }
+    ],
+    "questMissionList": [
+        {
+            "questStageMstId": 2544,
+            "questMissionMstId": 7744,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2544,
+            "questMissionMstId": 7745,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2544,
+            "questMissionMstId": 7746,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2545,
+            "questMissionMstId": 7747,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2545,
+            "questMissionMstId": 7748,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2545,
+            "questMissionMstId": 7749,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2546,
+            "questMissionMstId": 7750,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2546,
+            "questMissionMstId": 7751,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 2546,
+            "questMissionMstId": 7752,
+            "isClear": false
+        }
+    ],
+    "campaignList": [],
+    "inPossibleQuestStageList": [
+        {
+            "questStageMstId": 2546,
+            "termsType1": 0,
+            "termsType2": 72000,
+            "termsType3": 2545
+        },
+        {
+            "questStageMstId": 2545,
+            "termsType1": 0,
+            "termsType2": 62000,
+            "termsType3": 2544
+        },
+        {
+            "questStageMstId": 2544,
+            "termsType1": 0,
+            "termsType2": 52000,
+            "termsType3": 0
+        }
+    ],
+    "navigatorTalkRes": {
+        "isNavigatorTalk": false,
+        "navigatorTalkMstId": 0
+    },
+    "isHardView": false,
+    "boostCharacterName": "\u4eba\u9b5a\u516c\u4e3b",
+    "itemCount": 0
+}

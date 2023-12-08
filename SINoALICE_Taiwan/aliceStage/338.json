@@ -1,0 +1,126 @@
+{
+    "questAreaMstId": 338,
+    "stageList": [
+        {
+            "questAreaMstId": 338,
+            "questStageMstId": 3392,
+            "stageStatus": 1,
+            "stageBossEnemyId": 890,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/1",
+            "stageBossAttribute": 3,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "questLevel": 10,
+            "questUseStamina": 1,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        },
+        {
+            "questAreaMstId": 338,
+            "questStageMstId": 3423,
+            "stageStatus": 3,
+            "stageBossEnemyId": 890,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/1",
+            "stageBossAttribute": 3,
+            "clearRewardObjectType": 14,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 1,
+            "questLevel": 180,
+            "questUseStamina": 1,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        },
+        {
+            "questAreaMstId": 338,
+            "questStageMstId": 3454,
+            "stageStatus": 3,
+            "stageBossEnemyId": 890,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/1",
+            "stageBossAttribute": 3,
+            "clearRewardObjectType": 0,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 0,
+            "questLevel": 60,
+            "questUseStamina": 0,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        },
+        {
+            "questAreaMstId": 338,
+            "questStageMstId": 3455,
+            "stageStatus": 3,
+            "stageBossEnemyId": 890,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/1",
+            "stageBossAttribute": 3,
+            "clearRewardObjectType": 0,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 0,
+            "questLevel": 100,
+            "questUseStamina": 0,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        },
+        {
+            "questAreaMstId": 338,
+            "questStageMstId": 3456,
+            "stageStatus": 3,
+            "stageBossEnemyId": 890,
+            "stageBossResourceName": "",
+            "stageBossIconResourceName": "",
+            "stageBossAssetBundleName": "enemy/1",
+            "stageBossAttribute": 3,
+            "clearRewardObjectType": 0,
+            "clearRewardObjectId": 0,
+            "clearRewardNum": 0,
+            "questLevel": 180,
+            "questUseStamina": 0,
+            "hasGotFirstReward": false,
+            "clearCount": 0,
+            "stampRewardNum": 0,
+            "nextQuestStageRewardMstId": 0
+        }
+    ],
+    "questMissionList": [
+        {
+            "questStageMstId": 3392,
+            "questMissionMstId": 10243,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 3392,
+            "questMissionMstId": 10244,
+            "isClear": false
+        },
+        {
+            "questStageMstId": 3392,
+            "questMissionMstId": 10245,
+            "isClear": false
+        }
+    ],
+    "campaignList": [],
+    "inPossibleQuestStageList": [],
+    "navigatorTalkRes": {
+        "isNavigatorTalk": false,
+        "navigatorTalkMstId": 0
+    },
+    "isHardView": false,
+    "boostCharacterName": "\u845b\u9e97\u7279",
+    "itemCount": 0
+}
